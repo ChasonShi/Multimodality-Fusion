@@ -22,4 +22,7 @@ A Multi-modality Fusion Paper Reading List
 
 * [Attention Bottlenecks for Multimodal Fusion](https://arxiv.org/pdf/2107.00135.pdf). [Arsha Nagrani](https://arxiv.org/search/cs?searchtype=author&query=Nagrani%2C+A), [Shan Yang](https://arxiv.org/search/cs?searchtype=author&query=Yang%2C+S), [Anurag Arnab](https://arxiv.org/search/cs?searchtype=author&query=Arnab%2C+A), [Aren Jansen](https://arxiv.org/search/cs?searchtype=author&query=Jansen%2C+A), [Cordelia Schmid](https://arxiv.org/search/cs?searchtype=author&query=Schmid%2C+C), [Chen Sun](https://arxiv.org/search/cs?searchtype=author&query=Sun%2C+C) .***NIPS 2021***.
 
-* [ViViT: A Video Vision Transformer](https://arxiv.org/pdf/2103.15691v2.pdf). Anurag Arnab, Mostafa Dehghani, Georg Heigold, Chen Sun, Mario Luciˇ c´, Cordelia Schmid.***ICCV 2021***.
+* [ViViT: A Video Vision Transformer](https://arxiv.org/pdf/2103.15691.pdf). Anurag Arnab, Mostafa Dehghani, Georg Heigold, Chen Sun, Mario Lucic, Cordelia Schmid.***ICCV 2021***.
+* [ Multiview Transformers for Video Recognition](https://arxiv.org/pdf/2201.04288.pdf). [Shen Yan](https://arxiv.org/search/cs?searchtype=author&query=Yan%2C+S), [Xuehan Xiong](https://arxiv.org/search/cs?searchtype=author&query=Xiong%2C+X), [Anurag Arnab](https://arxiv.org/search/cs?searchtype=author&query=Arnab%2C+A), [Zhichao Lu](https://arxiv.org/search/cs?searchtype=author&query=Lu%2C+Z), [Mi Zhang](https://arxiv.org/search/cs?searchtype=author&query=Zhang%2C+M), [Chen Sun](https://arxiv.org/search/cs?searchtype=author&query=Sun%2C+C), [Cordelia Schmid](https://arxiv.org/search/cs?searchtype=author&query=Schmid%2C+C).***CVPR 2022***.
+
+# 

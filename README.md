@@ -22,3 +22,4 @@ A Multi-modality Fusion Paper Reading List
 
 * [Attention Bottlenecks for Multimodal Fusion](https://arxiv.org/pdf/2107.00135.pdf). [Arsha Nagrani](https://arxiv.org/search/cs?searchtype=author&query=Nagrani%2C+A), [Shan Yang](https://arxiv.org/search/cs?searchtype=author&query=Yang%2C+S), [Anurag Arnab](https://arxiv.org/search/cs?searchtype=author&query=Arnab%2C+A), [Aren Jansen](https://arxiv.org/search/cs?searchtype=author&query=Jansen%2C+A), [Cordelia Schmid](https://arxiv.org/search/cs?searchtype=author&query=Schmid%2C+C), [Chen Sun](https://arxiv.org/search/cs?searchtype=author&query=Sun%2C+C) .***NIPS 2021***.
 
+* [ViViT: A Video Vision Transformer](https://arxiv.org/pdf/2103.15691v2.pdf). Anurag Arnab, Mostafa Dehghani, Georg Heigold, Chen Sun, Mario Luciˇ c´, Cordelia Schmid.***ICCV 2021***.

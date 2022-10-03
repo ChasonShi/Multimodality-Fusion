@@ -18,7 +18,10 @@ A Multi-modality Fusion Paper Reading List
 * [Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/pdf/2107.07651.pdf). *Junnan Li, Ramprasaath R. Selvaraju, Akhilesh D. Gotmare Shafiq Joty, Caiming Xiong, Steven C.H. Hoi*.***NIPS 2021***.
 * [ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision](https://arxiv.org/pdf/2102.03334.pdf). [Wonjae Kim](https://arxiv.org/search/stat?searchtype=author&query=Kim%2C+W), [Bokyung Son](https://arxiv.org/search/stat?searchtype=author&query=Son%2C+B), [Ildoo Kim](https://arxiv.org/search/stat?searchtype=author&query=Kim%2C+I). ***ICLM 2021***.
 * [ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](https://arxiv.org/pdf/1908.02265.pdf). *Jiasen Lu, Dhruv Batra, Devi Parikh, Stefan Lee*. ***NIPS 2019***.
-* 
+* [VisualBERT: A Simple and Performant Baseline for Vision and Language](https://arxiv.org/pdf/1908.03557.pdf). *[Liunian Harold Li](https://arxiv.org/search/cs?searchtype=author&query=Li%2C+L+H), [Mark Yatskar](https://arxiv.org/search/cs?searchtype=author&query=Yatskar%2C+M), [Da Yin](https://arxiv.org/search/cs?searchtype=author&query=Yin%2C+D), [Cho-Jui Hsieh](https://arxiv.org/search/cs?searchtype=author&query=Hsieh%2C+C), [Kai-Wei Chang](https://arxiv.org/search/cs?searchtype=author&query=Chang%2C+K)*. ***ArXiv  2019***.
+* [UNITER: UNiversal Image-TExt Representation Learning](https://arxiv.org/pdf/1909.11740.pdf). *[Yen-Chun Chen](https://arxiv.org/search/cs?searchtype=author&query=Chen%2C+Y), [Linjie Li](https://arxiv.org/search/cs?searchtype=author&query=Li%2C+L), [Licheng Yu](https://arxiv.org/search/cs?searchtype=author&query=Yu%2C+L), [Ahmed El Kholy](https://arxiv.org/search/cs?searchtype=author&query=Kholy%2C+A+E), [Faisal Ahmed](https://arxiv.org/search/cs?searchtype=author&query=Ahmed%2C+F), [Zhe Gan](https://arxiv.org/search/cs?searchtype=author&query=Gan%2C+Z), [Yu Cheng](https://arxiv.org/search/cs?searchtype=author&query=Cheng%2C+Y), [Jingjing Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu%2C+J)*. ***ECCV  2019***.
+
+
 
 ### Video & Audio
 

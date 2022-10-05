@@ -34,4 +34,4 @@ A Multi-modality Fusion Paper Reading List
 
 ### Video & Text
 
-* [ VideoBERT: A Joint Model for Video and Language Representation Learning](https://arxiv.org/pdf/1904.01766.pdf). *Chen Sun, Austin Myers, Carl Vondrick, Kevin Murphy, and Cordelia Schmid*. ***iCCV 2019***.
+* [ VideoBERT: A Joint Model for Video and Language Representation Learning](https://arxiv.org/pdf/1904.01766.pdf). *Chen Sun, Austin Myers, Carl Vondrick, Kevin Murphy, and Cordelia Schmid*. ***ICCV 2019***.

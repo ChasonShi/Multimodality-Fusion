@@ -29,6 +29,7 @@ A Multi-modality Fusion Paper Reading List
 
 * [ViViT: A Video Vision Transformer](https://arxiv.org/pdf/2103.15691.pdf). *Anurag Arnab, Mostafa Dehghani, Georg Heigold, Chen Sun, Mario Lucic, Cordelia Schmid*.***ICCV 2021***.
 * [ Multiview Transformers for Video Recognition](https://arxiv.org/pdf/2201.04288.pdf). *[Shen Yan](https://arxiv.org/search/cs?searchtype=author&query=Yan%2C+S), [Xuehan Xiong](https://arxiv.org/search/cs?searchtype=author&query=Xiong%2C+X), [Anurag Arnab](https://arxiv.org/search/cs?searchtype=author&query=Arnab%2C+A), [Zhichao Lu](https://arxiv.org/search/cs?searchtype=author&query=Lu%2C+Z), [Mi Zhang](https://arxiv.org/search/cs?searchtype=author&query=Zhang%2C+M), [Chen Sun](https://arxiv.org/search/cs?searchtype=author&query=Sun%2C+C), [Cordelia Schmid](https://arxiv.org/search/cs?searchtype=author&query=Schmid%2C+C)*.***CVPR 2022***.
+* [ Is Space-Time Attention All You Need for Video Understanding?](https://arxiv.org/pdf/2102.05095.pdf). *[Gedas Bertasius](https://arxiv.org/search/cs?searchtype=author&query=Bertasius%2C+G), [Heng Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang%2C+H), [Lorenzo Torresani](https://arxiv.org/search/cs?searchtype=author&query=Torresani%2C+L)*. ***ICML 2021***. **Summary : **        **Contribution:**   First convolution-free approach to video classification
 
 
 
